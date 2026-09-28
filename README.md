@@ -63,4 +63,4 @@ The hero and gallery images are generated inline SVG scenes, so the page works o
 
 ## Author
 
-Built by [YOUR-NAME](https://github.com/d-webguy).
+Built by [THE WEB GUY](https://github.com/d-webguy).
